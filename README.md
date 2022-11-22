@@ -1,116 +1,25 @@
-# Java
-## Nivel 1
-- [ ] **Java - Fundamentos**:
-   - Conhecer os tipos primitivos
-   - Declarar variáveis, considerando os diferentes tipos
-   - Usar estruturas condicionais ('if', 'else')
-   - Conhecer os operadores de comparação
-   - Usar estruturas de repetição e laços ('while', 'for')
-   - Usar funções, passando parâmetros e argumentos
-   - Manipular métodos
-   - Manipular arrays e listas
-   - Obter dados de uma API
-   - Fazer chamadas assíncronas 'Future', etc
-   - Criar construtores
-- [ ] **Conceitos de Orientação a Objetos**:
-   - A Programação Orientada a Objetos é um paradigma de programação de software baseado na composição e interação entre diversas unidades chamadas de 'objetos' e as classes, que contêm uma identidade, propriedades e métodos). Ela é baseada em quatro componentes da programação: abstração digital, encapsulamento, herança e polimorfismo.
-   - Como funcionam objetos
-   - Criar e utilizar construtores
-   - O que são classes
-   - Criar e utilizar métodos
-   - Como funciona encapsulamento
-   - O que é herança
-   - O que é polimorfismo
-   - Como funcionam interfaces
-   - O que são abstrações
-- [ ] **Java - Manipulação de Erros**:
-   - Tratar exceções pré-definidas
-   - Uso de 'try' e 'catch'
-   - Criar exceções específicas
-   - Fazer o processo de Debug
-- [ ] **Java - Coleções**:
-   - Aprender os usos e diferenças entre List, Set e Map
-   - Aprender os usos e diferenças entre Equals e HashCode
-   - Saiba trabalhar com ArrayList, LinkedList ou Vector
-   - Classes Wrappers
-- [ ] **Java - Pacotes**:
-   - Use imports e organize o seu código através de packages
-   - Conhecer a java.lang
-   - Entender a imutabilidade e a classe String
-   - Entender a classe java.lang.Object
-   - Conhecer a java.io
-- [ ] **Java - Gerenciamento da Memória**:
-   - Entender como funciona a memória e seu gerenciamento em Java
-   - Entender como funciona a memória o Garbage Collector
-- [ ] **Java - Concorrência**:
-   - Executar tarefas simultaneamente
-   - Colocar tarefas para aguardar até que um determinado evento ocorra
-   - Entender como a memória funciona nessa situação
-- [ ] **Java - Persistência**:
-   - Entender sobre JDBC e JPA
-   - Comunicar-se com um banco de dados relacional
-   - Entender a diferença entre relacionamentos EAGER e LAZY
-   - Planejar queries com join fetch
-   - Encapsular o acesso em um DAO
-   - Entender como a memória funciona nessa situação
-## Nivel 2
-- [ ] **JVM**:
-   - Entender como funciona a máquina virtual do Java
-- [ ] **Spring Framework**:
-   - Entender os usos do Spring Framework
-   - Entender o conceito de Injeção de Dependências
-   - Entender o padrão MVC
-- [ ] **Java Build Tools**:
-   - Conheça as principais ferramentas de build do Java
-   - Aprenda a usar uma delas
-- [ ] **Java - Testes**:
-   - Usar testes unitários
-   - Usar testes de integração
-   - Usar testes de comportamento (behavior)
-   - Usar mocks
-- [ ] **Java - Serialização**:
-   - Realizar a criação de um objeto a partir de um fluxo de bytes e vice-versa
-- [ ] **Java - Rede e Sockets**:
-   - Abrir uma sessão de comunicação interativa entre o navegador do usuário e um servidor
-   - Enviar mensagens para um servidor e receber respostas sem consultar o servidor
-- [ ] **Java - Servlets**:
-   - Criar páginas web dinâmicas em Java
-   - Lidar com requisições para um servidor
-   - Conhecer o ciclo de vida de um servlet
-## Nivel 3
-- [ ] **Contêineres**:
-   - Os contêineres são pacotes de software que contêm todos os elementos necessários para serem executados em qualquer ambiente.
-   - Isolar seu software para funcionar independentemente
-   - Implantar software em clusters
-   - Modularizar seu sistema em pacotes menores
-   - Conhecer a plataforma Docker
-   - Conhecer Kubernetes
-- [ ] **Spring Boot**:
-   - Criar aplicações Spring standalone
-   - Usar os servidores HTTP embutidos
-- [ ] **Estruturas de Dados**:
-   - No contexto dos computadores, uma estrutura de dados é uma forma específica de armazenar e organizar os dados na memória do computador para que esses dados possam ser facilmente recuperados e utilizados de forma eficiente quando necessário posteriormente.
-   - Conhecer as principais estruturas de dados
-   - Implementar as principais estruturas de dados
-- [ ] **Design Patterns**:
-   - Na engenharia de software, um "padrão de projeto" (Design Pattern em inglês) é uma solução geral e reutilizável para um problema que ocorre normalmente dentro de um determinado contexto de projeto de software.
-   - Conhecer e aplicar os principais Design Patterns
-- [ ] **SOLID**:
-   - O Solid possui cinco princípios considerados como boas práticas no desenvolvimento de software que ajudam os programadores a escrever os códigos mais limpos, separando as responsabilidades, diminuindo acoplamentos, facilitando na refatoração e estimulando o reaproveitamento do código.
-   - Conhecer boas práticas no desenvolvimento de software
-- [ ] **Clean Architecture**:
-   - Conhecer a metodologia a ser usada na codificação, a fim de facilitar o desenvolvimento códigos, permitir uma melhor manutenção, atualização e menos dependência
-- [ ] **Reflection e atributos**:
-   - Escrever código que lê as informações e metadados de objetos em tempo de execução
-   - Obter nomes de classes em tempo de execução e criar objetos de uma classe
-- [ ] **JSF**:
-   - Escrever e manter aplicações executadas em um servidor
-   - Renderizar a interface de usuário
-   - Migrar os dados da aplicação para a interface
-- [ ] **JMS**:
-   - Enviar e receber mensagens
-- [ ] **Java - Logging**:
-   - Realizar logging de mensagens para indicar o comportamento de determinada aplicação
-- [ ] **Java Swing**:
-   - Renderizar os componentes da interface gráfica de um sistema
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-ribeiro-8071b5141/) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rafaelribeirowt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafaelribeirowt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelribeirowt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=rafaelribeirowt&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rafael.ribeirowt@gmail.com) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
